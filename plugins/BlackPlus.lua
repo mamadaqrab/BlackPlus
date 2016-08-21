@@ -1,11 +1,11 @@
 --[[
 
      **************************
-     *  BlackPlus Plugins...  *
+     *  Under TG Plugins...  *
      *                        *
-     *     By @MehdiHS        *
+     *     By alfroshotak     *
      *                        *
-     *  Channel > @Black_Ch   *
+     *  Channel > @........   *
      **************************
 	 
 ]]
@@ -166,11 +166,11 @@ end
 --[[
 
      **************************
-     *  BlackPlus Plugins...  *
+     *  underTG Plugins...  *
      *                        *
-     *     By @MehdiHS        *
+     *     By @alfroshotak       *
      *                        *
-     *  Channel > @Black_Ch   *
+     *  Channel >             *
      **************************
 	 
 ]]
